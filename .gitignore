@@ -1,0 +1,38 @@
+# Build folders
+build/
+Debug/
+RelWithDebInfo/
+CMakeFiles/
+*.o
+*.obj
+*.elf
+*.map
+*.bin
+*.hex
+*.log
+*.d
+*.lst
+*.pyc
+*.pyo
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.user
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+# CMake generated files
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+# System files
+.DS_Store
+Thumbs.db
+# Others
+.idea/
+*.launch
+*.orig
+# Ignore user-specific files
+*.code-workspace
