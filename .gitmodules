@@ -1,0 +1,9 @@
+[submodule "Libs/AM_MIDI2.0Lib"]
+	path = Libs/AM_MIDI2.0Lib
+	url = https://github.com/midi2-dev/AM_MIDI2.0Lib.git
+[submodule "Libs/tusb_ump"]
+	path = Libs/tusb_ump
+	url = https://github.com/midi2-dev/tusb_ump.git
+[submodule "Libs/tinyusb"]
+	path = Libs/tinyusb
+	url = https://github.com/hathach/tinyusb.git
