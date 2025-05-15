@@ -107,7 +107,7 @@ class CReadMidiBuffer {
 
       int unread = GetDataNum();
       if (unread > 0) {
-        data = UartMidiData[mIndexRead];
+        data = pMidiData[mIndexRead];
         mIndexRead = (mIndexRead + 1) % mSize;
       }
       return unread;
